@@ -1,9 +1,11 @@
-name: "[#5eb85e]The Funniest Thing You'll Ever See[]"
-description: "[scarlet]TFSYES[]"
+name: "read description"
+description: "[lightgray]cmon, flip the pickle morty, you're not gonna regret it, the payoff is huge."
+health:69
 type: MechPad
 mech: tfsyes
 size: 2
 category: upgrade
 requirements: [
+  silicon/69
   plastanium/69
 ]
