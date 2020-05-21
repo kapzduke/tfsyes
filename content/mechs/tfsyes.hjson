@@ -1,24 +1,24 @@
-name: "[#5eb85e]The Funniest Shit You'll Ever See[]"
-description: "[scarlet]TFSYES[]"
-speed: 0.0125
+name: "[#5eb85e]Pickle Rick[]"
+description: "[scarlet]i turned myself into a pickle morty! BOOM! big reveal, i'm a pickle, what do you think about that?/nw-w-w-what are you staring at me for bro, i turned myself into a pickle, morty./n[accent]And?/n[scarlet]And? w-what morty wouldn't tack on to this? i turned myself onto a pickle and 9/11 was an inside job.?/n[accent]Was it??/n[scarlet]who cares?? global acts of terrorism happen everyday. here's something that never happened!:/n[darkbrick]I TURNED MYSELF INTO A PICKLE MORTY!/n/nI'M PICKLE RIIICK!!![]"
+speed: 0.069
 drag: 0.1
 maxSpeed: 69
 boostSpeed: 2.0
-buildPower: 0
-mineSpeed: 0
-drillPower: 0
+buildPower: 169
+mineSpeed: 169
+drillPower: 3
 mass: 4
-itemCapacity: 0
+itemCapacity: 69
 flying: false
 drawCell: false
 cellTrnsY: 2
-health: 42069
+health: 420
 engineSize: 0
 weaponOffsetX: 0
 weaponOffsetY: 0
 //turnCursor: false
 weapon: {
-  //name: chill-blaster
+  //name: "the-payoff"
   length: 0
   width: 0
   shots: 69
